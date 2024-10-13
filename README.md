@@ -1,6 +1,6 @@
 # Krystal's Github Stats
 <p>
-  <i>Made using using <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> by <a href="https://github.com/anuraghazra">Anurag Hazra</a></i>
+  <i>Made using <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a> by <a href="https://github.com/anuraghazra">Anurag Hazra</a></i>
 </p>
 
 <p>
